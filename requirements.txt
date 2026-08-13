@@ -1,0 +1,12 @@
+# Dependências principais do pipeline.
+# O notebook foi desenvolvido para rodar no Google Colab, onde os pacotes
+# google-colab / gspread / google-auth já vêm pré-instalados no ambiente.
+# Esta lista serve de referência caso o pipeline seja adaptado para rodar
+# fora do Colab.
+
+groq
+openai
+pandas
+openpyxl
+gspread
+google-auth
