@@ -1,0 +1,25 @@
+# Dados e saídas de execução (não versionar)
+data/*.xml
+data/*.csv
+data/*.xlsx
+checkpoint_*.csv
+*_checkpoint*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Segredos (nunca versionar)
+.env
+*.key
+credentials.json
