@@ -1,6 +1,6 @@
 # PIBIC — Extração de Triplas para Grafos de Conhecimento via LLMs
 
-Pipeline de pesquisa (PIBIC/Fatec Campinas) para comparar **Large Language Models (LLMs)** na
+Pipeline de pesquisa (PIBIC) para comparar **Large Language Models (LLMs)** na
 tarefa de **extração de triplas (sujeito, predicado, objeto)** a partir de um dataset de textos
 farmacológicos (metabolismo e absorção de drogas), com avaliação automática e humana da
 qualidade das extrações.
