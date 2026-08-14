@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Se você utilizar este trabalho, por favor cite-o conforme abaixo."
+type: software
+title: "PIBIC — Extração de Triplas para Grafos de Conhecimento via LLMs"
+authors:
+  - family-names: "Vitorio"
+    given-names: "Emmanuel"
+    affiliation: "Fatec Campinas"
+repository-code: "https://github.com/emmanuvitorio-dotcom/pibic-extracao-triplas-llm"
+url: "https://github.com/emmanuvitorio-dotcom/pibic-extracao-triplas-llm"
+license: MIT
+date-released: 2026-08-13
+keywords:
+  - grafos de conhecimento
+  - large language models
+  - extração de informação
+  - farmacologia
+  - LLM-as-a-judge
